@@ -18,7 +18,7 @@ The SSH SUSHI Test Webpage provides a delightful interface for evaluating variou
 
 
 
-<img src="https://github.com/AlberrDev/AlberrDev.github.io/raw/main/MascotaPNG.png" alt="MascotaPNG" width="100"/> <img src="https://github.com/AlberrDev/AlberrDev.github.io/raw/main/LogoBlanco.png" alt="LogoBlanco" width="150"/>
+<img src="https://github.com/AlberrDev/SSH-SUSHI-WEBPAGE/blob/main/images/logo/MascotaPNG.png" alt="MascotaPNG" width="100"/> <img src="https://github.com/AlberrDev/SSH-SUSHI-WEBPAGE/blob/main/images/logo/LogoBlanco.png" alt="LogoBlanco" width="150"/>
 
 
 
